@@ -1,0 +1,121 @@
+Diagnostic Group,Diagnostic Code,Diagnostic Name,Alternative Name,Definition (if needed)
+ss,1,Skin snip + microscopy,,"A tiny slice of the skin is then removed with a small razorblade. To observe the microfilariae, the skin snip is placed in saline or incubated in a cultured medium. The microfilarial load is estimated by counting the emerging microfilariae using microscopy."
+ss,2,Skin snip + PCR,"qPCR, RT-PCR, PCR are all different types of PCR and for our intent and purposes fall into this diagnostic code as well","A tiny slice of the skin is then removed with a small razorblade. To observe the microfilariae, the skin snip is placed in saline or incubated in a cultured medium. The microfilarial load is estimated using PCR to determine presence of DNA"
+ss,9,"Skin snip, no further details",,"A tiny slice of the skin is then removed with a small razorblade. To observe the microfilariae, the skin snip is placed in saline or incubated in a cultured medium. The microfilarial load can be estimated with this method by counting the emerging microfilariae using PCR or microscopy."
+ss,10,Skin Snip - Membrane Filter Concentration Technique,,
+nod,30,Any palpable nodules,Onchocercomata,"A clinician or trained health worker feels a patient's body with there hand to feel for presence of worm-filled, hard nodules"
+nod,92,Skin Snip w/PCR + Any Palpale Nodules,,Combination of techniques
+nod,95,Skin Snip (non-PCR) + Any Palpale Nodules,,Combination of techniques
+nod,39,"Nodules, no further info",Onchocercomata,A clinician or trained health identifies worm-filled nodules but there is not further information provided on technique or location
+sero,100,ELISA OV16,,Enzyme-linked immunosorbent assay - identifies presence of onchocerciasis OV16 antigen using IgG4 antibodies
+sero,102,Ov16 RDT,IgG4 rapid test,Rapid Diagnostic Test - identifies presence of onchocerciasis OV16 antigen using IgG4 antibodies
+sero,416,"ELISA OvMBP16, OvMBP11, OvMBP7",,
+sero,426,"ELISA Ov PBS/NOG, Ov MBP/10, Ov MBP/11, Ov MBP/29",,
+sero,427,IFA test,Indirect fluorescent antibody test,
+sero,429,IHA test,indirect hemagglutination test,
+eye_general,29,"Ocular onchocerciasis, no further details",,
+eye_general,131,History of Eye Disease,,
+eye_symptoms,130,Eye Discomfort,,
+eye_symptoms,150,Eye Itching,,
+eye_symptoms,13,IVIE impaired vision/eye itching,,
+eye_symptoms,141,Motion Sensitivity Screening Test (MSST),,
+eye_vision-loss,143,Visual Impairment,,WHO definition/ICD: Visual Acuity score on Snellen Test worse than 6/18 - measure in the "best Corrected Vision in the better eye"
+eye_vision-loss,139,Moderate Visual impairment,,WHO definition/ICD: Visual Acuity score on Snellen Test between 6/18 and <=6/60 - measure in the "best Corrected Vision in the better eye"
+eye_vision-loss,140,Severe Visual impairment,,WHO definition/ICD: Visual Acuity score on Snellen Test between <6/60 and <=3/60 - measure in the "best Corrected Vision in the better eye"
+eye_vision-loss,25,Blindness,,WHO definition/ICD: Visual Acuity of <3/60
+eye_vision-loss,411,Blindness due to oncho,,
+eye_vision-loss,434,low vision due to oncho,,
+eye_vision-loss,441,uniocular blindness due to oncho,,
+eye_vision-loss,151,Uniocular Blindness (only one eye blind),One eye blind,One eye blind only
+eye_vision-loss,145,Night Blindness,,
+eye_vision-loss,146,Photophobia,,
+eye_atrophy/lesions,300,oncho related ocular lesions,,
+eye_atrophy/lesions,26,ocular lesions,,
+eye_atrophy/lesions,301,severe ocular lesions,,
+eye_atrophy/lesions,15,Inducible eye lesions,,
+eye_atrophy/lesions,409,"optic atrophy, unspecified",,
+eye_atrophy/lesions,148,bilateral ocular atrophy,,
+eye_atrophy/lesions,147,bilateral macular affection,,
+eye_atrophy/lesions,153,Pterygium,,"A pterygium (tuh-RIJ-ee-uhm) is an elevated, wedged-shaped bump on the eyeball that starts on the white of the eye (sclera) and can invade the cornea. If you have more than one of these eye growths, the plural form of the word is pterygia (tuh-RIJ-ee-ah). Pterygia are benign (non-cancerous) growths, but they can permanently disfigure the eye. They also can cause discomfort and blurry vision."
+eye_atrophy/lesions,432,papillary abnormalities,,
+eye_visible-mf,20,Mf in cornea,MFC,
+eye_visible-mf,133,Dead microfilarae in cornea (DMFC),DMFC,
+eye_visible-mf,21,Mf in anterior chamber,MFAC,
+eye_visible-mf,24,Mf in anterior segment,MFAS,
+eye_visible-mf,28,Mf in cornea and/or anterior chamber,,
+eye_corneal-disease,415,Corneal Opacities,,Occurs when the cornea becomes scarred. This stops light from passing through the cornea to the retina and may cause the cornea to appear white or clouded over.
+eye_corneal-disease,19,Punctate Keratitis,Fluffy Opacities; Snowflake Opacities,"Upper layers of the cornea are inflamed. An ophthalmologist may note small white opacities just below the surface of the cornea with a characteristic ""negative fluorescein staining"" pattern. Common symptoms include recurrent burning, tearing, light sensitivity, and a sensation of a foreign body in their eyes. Sometimes these symptoms can be quite severe despite having few signs on a slit lamp exam. The symptoms tend to be self-limited, although a mild topical steroid can be used if the presentation is severe."
+eye_corneal-disease,27,Punctate Keratitis + Mf in anterior chamber,,
+eye_corneal-disease,17,sclerosing keratitis,,
+eye_corneal-disease,22,sclerosing keratitis or chorioretinitis in a pattern typical of onchocerciasis,,
+eye_corneal-disease,23,sclerosing keratitis or chorioretinitis in a pattern typical of onchocerciasis + glaucoma,,
+eye_corneal-disease,149,corneal scar,,
+eye_corneal-disease,152,Acute Senilis,,"Arcus senilis is an old age syndrome where there is a white, grey, or blue opaque ring in the corneal margin (peripheral corneal opacity), or white ring in front of the periphery of the iris. It is present at birth but then fades; however, it is quite commonly present in the elderly."
+eye_iris,16,Iridocyclitis,Anterior uveitis; Iritis,Inflammation of the iris (the colored part of the eye) and the ciliary body (muscles and tissue involved in focusing the eye)
+eye_iris,403,pigment epithelial defects,,Retinal pigment epithelium (RPE) is a pigmented layer of the retina which can be thicker than normal at birth (congenital) or may thicken later in life. Areas of retinal pigment epithelial (RPE) hypertrophy usually do not cause symptoms. They are typically found during routine eye examinations.
+eye_iris,405,pupillary adhesions,,"Condition where the lens adheres to the Iris - can be caused by ocular trauma, iritis or iridocyclitis and may lead to certain types of glaucoma"
+eye_iris,406,dispersal of pigment in the anterior chamber,,
+eye_lens,135,Cataract,,"Aa clouding of the eye's natural lens, which lies behind the iris and the pupil"
+eye_retina,436,Intra-retinal pigment changes,,
+eye_retina,437,Retinal pigment epithelium atrophy,,
+eye_retina,138,Intra-retinal Disease,,
+eye_retina,142,Intra-retinal Deposits,,
+eye_retina,438,white intra-retinal deposits,,
+eye_retina,439,shiny intra-retinal deposits,,
+eye_retina,410,Retinal vessel sheathing,,
+eye_choroid,435,Chorioretinal changes - unspecified,,
+eye_choroid,14,Onchocercal chorioretinitis,,Inflammation of the choroid (thin pigmented vascular coat of the eye) and retina of the eye
+eye_choroid,404,Chorioretinal atrophy,,
+eye_optic-nerve-disease,144,Optic nerve atrophy,,
+eye_optic-nerve-disease,18,Optic nerve disease,,
+eye_optic-nerve-disease,136,Glaucoma,,Group of eye diseases which result in damage to the optic nerve and vision loss
+eye_optic-nerve-disease,407,Raised intraocular pressure,,Risk factor for glaucoma
+eye_optic-nerve-disease,137,Non glaucomatous optic nerve disease,,
+skin_general,423,Cutaneous Sign,,"overlapping skin manifestation (i.e. depigmentation, onchodermatitis (acute, chronic, lichenified), hanging groin, skin atrophy, and/or leopard skin, etc"
+skin_general,40,Onchodermatitis - general,Onchocerciasis Skin Disease (OSD),Skin clinical manifestations
+skin_general,419,Onchodermatitis - acute,Onchocerciasis Skin Disease (OSD),Skin clinical manifestations
+skin_general,420,Onchodermatitis - chronic,Onchocerciasis Skin Disease (OSD),Skin clinical manifestations
+skin_general,52,Skin Lesions,Cutaneous lesions,
+skin_itching,431,History of Prolonged Itching,,
+skin_itching,47,Pruritus,,
+skin_itching,55,Severe Itching,,
+skin_itching,60,Scratch Mark,,Scratch marks generally imply that a patient has been itching
+skin_rash,63,Papular rash,,
+skin_rash,34,Acute Papular Onchodermatitis,APOD,
+skin_rash,35,Chronic Papular Onchodermatitis,CPOD,"Solid, scattered, pruritic papular rash. The diameter of the papules is at least 1 mm. Vesicles or pustules at the apex may or may not be present. The obliteration of the Skin creases due to oedema also may or may not be present."
+skin_rash,64,Pustular rash,,"A scattered, pruritic, hyperpigmented and flat-topped rash with papules that are at least 3mm"
+skin_rash,65,Macular Rash,,
+skin_rash,46,Maculopapular Rashes,,
+skin_rash,400,"papules, unspecified",,
+skin_rash,430,"rash, unspecified",,
+skin_lymph-nodes,53,Lymphadenopathy,enlarged lymph nodes,Swollen lymph nodes that are 1cm or larger in diameter and may be tender
+skin_lymph-nodes,424,Lymphedema,,"""Lymphedema, also known as lymphoedema and lymphatic edema, is a condition of localized fluid retention and tissue swelling caused by a compromised lymphatic system, which normally returns interstitial fluid to the thoracic duct, then the bloodstream. """
+skin_lymph-nodes,442,Adenolymphocele,,dilation of lymph nodes or vessels caused by an obstruction
+skin_pigment,402,"Pigment changes, unspecified",,Skin losing pigment or changing colors - no further information
+skin_pigment,44,Leopard Skin,,"Complete loss of skin pigment in spots or islands; most often found in lower extremities, below knee"
+skin_pigment,49,Depigmentation,,"Loss of pigment; Some areas of skin have incomplete loss of pigmentation, while others surrounding the hair follicles have normal pigment"
+skin_pigment,61,Hypopigmentation,,
+skin_pigment,62,Hyperpigmentation,,
+skin_pigment,401,Edematous plaques,,
+skin_pigment,418,Sowda,,
+skin_texture,41,Atrophy,presbydermia,Dry and wrinkled skin. Fine wrinkles are revealed by pressing the skin with a finger. This condition is very abnormal in patients under 50 years of age.
+skin_texture,66,Lizard Skin,,
+skin_texture,42,Scaling,,
+skin_texture,36,Lichenified Onchodermatitis,,"Raised, pruritic, and hyperpigmented papulonodular plaques associated with lymphadenopathy. The lesions may flow together or have patches of torn-off skin. This condition can occur with APOD or CPOD."
+skin_texture,433,hyperkeratosis,,
+skin_texture,440,Pachydermia,,"""abnormal thickness of tissue (as of skin or of the laryngeal mucous membrane)"""
+skin_inguinal/groin,70,Hanging Scrotum,,
+skin_inguinal/groin,71,Hanging Groin,,
+skin_inguinal/groin,68,Scrotal Elephantiasis,Enlarged Scrotum,
+skin_inguinal/groin,75,Hydroceles,,
+skin_inguinal/groin,74,Hypertrophy of the scrotal skin,,
+skin_inguinal/groin,67,Hernia,,
+skin_legs,58,Elephantiasis,,
+skin_legs,413,severe unilateral leg involvement,,
+other,422,DEC Patch Test,Mazzotti Test,
+other,59,Rheumatism,,
+other,91,Knott's method,,
+other,93,LAMP (loop-mediated isothermal amplification) (Turbidity),,
+other,94,LAMP (loop-mediated isothermal amplification) (Color),,
+other,425,"Blood smear, thick",,
+other,428,Urine test,,
