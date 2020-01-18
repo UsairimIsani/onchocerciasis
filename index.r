@@ -14,3 +14,6 @@ onch.both_cases = onch$CASES[onch$SEX == "Both"]
 onch.ss = onch$CASES[onch$DX_GROUP == "ss"]
 onch.ss_total = sum(onch.ss)
 onch.types_of_dx_cases = c() 
+library(dplyr)
+newdata = filter(onch,onch$LOC_GROUP == 1217)
+newdata.prev =  sum(newdata$CASES)/ sum(newdata$N) *1000
